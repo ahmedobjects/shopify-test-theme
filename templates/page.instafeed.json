@@ -1,0 +1,15 @@
+{
+    "sections": {
+      "main": {
+        "type": "main-page"
+      },
+      "insta_feed":{
+        "type":"instafeed"
+      }
+    },
+    "order": [
+      "main",
+      "insta_feed"
+    ]
+  }
+  
