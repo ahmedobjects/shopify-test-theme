@@ -1,7 +1,7 @@
 GloboSwatchConfig.settings = {
             enable_collection_page: true,
             enable_product_page: true,
-            out_of_stock: "cross out",
+            out_of_stock: "opacity",
             enable_mandatory: false,
             show_add_to_cart_button: true,
             add_to_cart_ajax: false,
