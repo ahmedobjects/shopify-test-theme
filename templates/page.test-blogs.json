@@ -1,7 +1,7 @@
 {
     "sections": {
-      "multi_column": {
-        "type": "multicolumn",
+      "test_blogs": {
+        "type": "test-blogs",
         "blocks": {
           "column1": {
             "type": "column"
@@ -21,7 +21,7 @@
       }
     },
     "order": [
-      "multi_column"
+      "test_blogs"
     ]
 }
   
