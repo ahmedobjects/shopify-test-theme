@@ -17,11 +17,20 @@
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
+        },
+        "20a52c49-03de-4887-9898-68dd20b66683": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-lukas-574070.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
         "column1",
-        "column2"
+        "column2",
+        "20a52c49-03de-4887-9898-68dd20b66683"
       ],
       "settings": {
         "title": "Multicolumn",
