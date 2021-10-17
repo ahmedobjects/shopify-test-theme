@@ -8,9 +8,6 @@
           },
           "column2": {
             "type": "column"
-          },
-          "column3": {
-            "type": "column"
           }
         },
         "block_order": [
