@@ -16,7 +16,8 @@
       ],
       "settings": {
         "title": "ahmed page",
-        "image_width": "full"
+        "image_width": "full",
+        "image_ratio": "adapt"
       }
     }
   },
