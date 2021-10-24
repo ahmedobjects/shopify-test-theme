@@ -1,7 +1,7 @@
 {
   "sections": {
     "articles": {
-      "type": "articles",
+      "type": "test-articles",
       "blocks": {
         "column1": {
           "type": "column",
@@ -27,6 +27,6 @@
     }
   },
   "order": [
-    "articles"
+    "test-articles"
   ]
 }
