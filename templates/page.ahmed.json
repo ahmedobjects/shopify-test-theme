@@ -15,7 +15,8 @@
         "column1"
       ],
       "settings": {
-        "title": "ahmed page"
+        "title": "ahmed page",
+        "image_width": "full"
       }
     }
   },
