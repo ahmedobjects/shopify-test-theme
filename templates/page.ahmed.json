@@ -13,7 +13,10 @@
       },
       "block_order": [
         "column1"
-      ]
+      ],
+      "settings": {
+        "title": "ahmed page"
+      }
     }
   },
   "order": [
