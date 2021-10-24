@@ -1,7 +1,7 @@
 {
   "sections": {
-    "articles": {
-      "type": "test-articles",
+    "ahmed": {
+      "type": "ahmed",
       "blocks": {
         "column1": {
           "type": "column",
@@ -15,7 +15,7 @@
         "column1"
       ],
       "settings": {
-        "title": "articles page",
+        "title": "ahmed page",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
@@ -27,6 +27,6 @@
     }
   },
   "order": [
-    "test-articles"
+    "ahmed"
   ]
 }
