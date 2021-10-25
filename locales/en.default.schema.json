@@ -1951,7 +1951,16 @@
       },
       "blocks":{
         "column":{
-          "name":"Row"
+          "name":"Row",
+          "settings":{
+            "direction":{
+              "option__1":{
+                "label":"Left To Right"
+              },"option__2":{
+                "label":"Right To Left"
+              }
+            }
+          }
         }
       },
       "presets":{
