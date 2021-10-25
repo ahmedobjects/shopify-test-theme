@@ -1885,8 +1885,8 @@
         "name": "Video"
       }
     },
-    "ahmed":{
-      "name":"Ahmed",
+    "ahmed": {
+      "name": "Ahmed",
       "settings": {
         "title": {
           "label": "Heading"
@@ -1907,8 +1907,8 @@
           }
         }
       },
-      "presets":{
-        "name":"Ahmed Section"
+      "presets": {
+        "name": "Ahmed Section"
       }
     }
   }
