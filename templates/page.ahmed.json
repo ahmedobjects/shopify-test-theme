@@ -23,14 +23,7 @@
         "4982174c-3dbf-4f0b-8337-172e6cfc5467"
       ],
       "settings": {
-        "title": "ahmed page",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
+        "title": "ahmed page"
       }
     }
   },
