@@ -1897,6 +1897,7 @@
           "name":"Row",
           "settings":{
             "direction":{
+              "label":"direction",
               "options__1":{
                 "label":"Left To Right"
               },"options__2":{
