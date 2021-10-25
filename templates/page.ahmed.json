@@ -6,6 +6,8 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
+            "direction": "right_to_left",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
@@ -13,17 +15,27 @@
         "4982174c-3dbf-4f0b-8337-172e6cfc5467": {
           "type": "column",
           "settings": {
+            "direction": "left_to_right",
             "title": "Column",
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>"
+          }
+        },
+        "06c84742-46a2-4212-bfc7-32d9904ea415": {
+          "type": "column",
+          "settings": {
+            "direction": "left_to_right",
+            "title": "Row Title",
             "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>"
           }
         }
       },
       "block_order": [
         "column1",
-        "4982174c-3dbf-4f0b-8337-172e6cfc5467"
+        "4982174c-3dbf-4f0b-8337-172e6cfc5467",
+        "06c84742-46a2-4212-bfc7-32d9904ea415"
       ],
       "settings": {
-        "title": "ahmed page"
+        "title": "ahmed section"
       }
     }
   },

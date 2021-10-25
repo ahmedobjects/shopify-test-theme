@@ -1885,29 +1885,30 @@
         "name": "Video"
       }
     },
-    "ahmed":{
-      "name":"Ahmed",
+    "ahmed": {
+      "name": "Ahmed",
       "settings": {
         "title": {
           "label": "Heading"
         }
       },
-      "blocks":{
-        "column":{
-          "name":"Row",
-          "settings":{
-            "direction":{
-              "options__1":{
-                "label":"Left To Right"
-              },"options__2":{
-                "label":"Right To Left"
+      "blocks": {
+        "column": {
+          "name": "Row",
+          "settings": {
+            "direction": {
+              "options__1": {
+                "label": "Left To Right"
+              },
+              "options__2": {
+                "label": "Right To Left"
               }
             }
           }
         }
       },
-      "presets":{
-        "name":"Ahmed Section"
+      "presets": {
+        "name": "Ahmed Section"
       }
     }
   }
