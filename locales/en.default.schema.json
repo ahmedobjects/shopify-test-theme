@@ -1892,16 +1892,17 @@
           "label": "Heading"
         }
       },
-      "blocks":{
-        "column":{
-          "name":"Row",
-          "settings":{
-            "direction":{
-              "label":"direction",
-              "options__1":{
-                "label":"Left To Right"
-              },"options__2":{
-                "label":"Right To Left"
+      "blocks": {
+        "column": {
+          "name": "Row",
+          "settings": {
+            "direction": {
+              "label": "direction",
+              "options__1": {
+                "label": "Left To Right"
+              },
+              "options__2": {
+                "label": "Right To Left"
               }
             }
           }
