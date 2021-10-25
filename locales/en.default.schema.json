@@ -1954,9 +1954,9 @@
           "name":"Row",
           "settings":{
             "direction":{
-              "option__1":{
+              "options__1":{
                 "label":"Left To Right"
-              },"option__2":{
+              },"options__2":{
                 "label":"Right To Left"
               }
             }
